@@ -1,0 +1,130 @@
+{
+  "userdata": [
+    {
+      "username": "mansi agarwal",
+      "email": "mansiagarwal293@gmail.com",
+      "password": "123456",
+      "Mobile": "07389835904",
+      "id": 1
+    },
+    {
+      "username": "mansi agarwal",
+      "email": "mansi123@gmail.com",
+      "password": "987654",
+      "Mobile": "07389835904",
+      "id": 2
+    },
+    {
+      "username": "mansi agarwal",
+      "email": "mansiagarwal293@gmail.com",
+      "password": "123456",
+      "Mobile": "07389835904",
+      "id": 3
+    },
+    {
+      "username": "mansi agarwal",
+      "email": "mansiagarwal293@gmail.com",
+      "password": "",
+      "Mobile": "07389835904",
+      "id": 4
+    },
+    {
+      "username": "mansi agarwal",
+      "email": "mansiagarwal293@gmail.com",
+      "password": "55",
+      "Mobile": "07389835904",
+      "id": 5
+    },
+    {
+      "username": "mansi ",
+      "email": "mansi123@gmail.com",
+      "password": "132",
+      "Mobile": "07389835904",
+      "id": 6
+    },
+    {
+      "username": "mansi ",
+      "email": "mansi123@gmail.com",
+      "password": "123456",
+      "Mobile": "07389835904",
+      "id": 7
+    },
+    {
+      "username": "mansi ",
+      "email": "mansi123@gmail.com",
+      "password": "",
+      "Mobile": "07389835904",
+      "id": 8
+    },
+    {
+      "username": "mansi ",
+      "email": "mansi123@gmail.com",
+      "password": "",
+      "Mobile": "07389835904",
+      "id": 9
+    }
+  ],
+
+  "mobiles": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "price": 999,
+      "rating": 4.8,
+      "stock": 20,
+      "description": "6.1-inch Super Retina XDR display, A15 Bionic chip, 12MP dual-camera system.",
+      "image": "https://dummyimage.com/300x400/000/fff&text=iPhone+14"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S22",
+      "price": 799,
+      "rating": 4.7,
+      "stock": 15,
+      "description": "6.6-inch AMOLED display, Exynos 2200, 50MP triple-camera setup.",
+      "image": "https://dummyimage.com/300x400/000/fff&text=Galaxy+S22"
+    },
+    {
+      "id": 3,
+      "brand": "OnePlus",
+      "model": "OnePlus 10 Pro",
+      "price": 699,
+      "rating": 4.6,
+      "stock": 30,
+      "description": "6.7-inch Fluid AMOLED, Snapdragon 8 Gen 1, Hasselblad camera.",
+      "image": "https://dummyimage.com/300x400/000/fff&text=OnePlus+10+Pro"
+    },
+    {
+      "id": 4,
+      "brand": "Xiaomi",
+      "model": "Mi 12 Pro",
+      "price": 649,
+      "rating": 4.5,
+      "stock": 25,
+      "description": "6.73-inch AMOLED, Snapdragon 8 Gen 1, 50MP quad-camera.",
+      "image": "https://dummyimage.com/300x400/000/fff&text=Mi+12+Pro"
+    },
+    {
+      "id": 5,
+      "brand": "Google",
+      "model": "Pixel 7",
+      "price": 599,
+      "rating": 4.8,
+      "stock": 10,
+      "description": "6.3-inch OLED display, Google Tensor G2, 50MP dual-camera.",
+      "image": "https://dummyimage.com/300x400/000/fff&text=Pixel+7"
+    },
+    {
+      "id": 6,
+      "brand": "Realme",
+      "model": "Realme GT 2 Pro",
+      "price": 549,
+      "rating": 4.4,
+      "stock": 18,
+      "description": "6.7-inch AMOLED, Snapdragon 8 Gen 1, 50MP triple-camera.",
+      "image": "https://dummyimage.com/300x400/000/fff&text=Realme+GT+2+Pro"
+    }
+  ]
+}

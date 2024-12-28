@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(186, 234, 224);
+}
+
+#signform {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+  margin: 100px;
+
+  height: 500px;
+}
+form,
+#Login {
+  width: 50%;
+}
+input {
+  width: 80%;
+  height: 30px;
+  margin: 12px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+#submit {
+  background-color: #5e17eb;
+}
